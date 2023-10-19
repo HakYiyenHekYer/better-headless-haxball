@@ -3608,8 +3608,7 @@ window.parent.console.log("Better Headless installed!")
                     damping: h.ga,
                     color: h.S,
                     cMask: h.c,
-                    cGroup: h.m,
-                    test: window.parent.console.log(h)
+                    cGroup: h.m
                 }
 
             }
